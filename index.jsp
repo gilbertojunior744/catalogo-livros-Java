@@ -24,8 +24,7 @@
             response.sendRedirect("admin.jsp");
         }
         
-        out.println(usuario);
-        out.println(senha);
+        
 
    %>
     <div class="container">
